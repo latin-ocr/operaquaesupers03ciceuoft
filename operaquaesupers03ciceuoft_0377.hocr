@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaquaesupers03ciceuoft/operaquaesupers03ciceuoft_0377.png"; bbox 0 0 1394 2503; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 88 732 1246 1059">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 88 732 1246 1059">
+     <span class='ocr_line' id='line_1_1' title="bbox 261 732 1069 789; baseline 0.002 -12"><span class='ocrx_word' id='word_1_1' title='bbox 261 733 328 778; x_wconf 89' lang='lat' dir='ltr'><strong>M.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 365 734 631 780; x_wconf 90' lang='lat' dir='ltr'>TULLII</span> <span class='ocrx_word' id='word_1_3' title='bbox 669 732 1069 789; x_wconf 83' lang='lat' dir='ltr'>CICERONIS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 624 873 705 929; baseline 0 -18"><span class='ocrx_word' id='word_1_4' title='bbox 624 873 705 929; x_wconf 66' lang='lat' dir='ltr'><strong>DE</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 88 968 1246 1059; baseline 0.002 -5"><span class='ocrx_word' id='word_1_5' title='bbox 88 995 620 1054; x_wconf 80' lang='lat' dir='ltr'>OPTIMO</span> <span class='ocrx_word' id='word_1_6' title='bbox 709 968 1246 1059; x_wconf 77' lang='lat' dir='ltr'>GE-NERE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 255 1130 981 1204">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 255 1130 981 1204">
+     <span class='ocr_line' id='line_1_4' title="bbox 255 1130 981 1204; baseline 0.001 -2"><span class='ocrx_word' id='word_1_7' title='bbox 255 1130 981 1204; x_wconf 40' lang='lat' dir='ltr'><strong>&#39;ORATORUM.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 131 2213 1028 2262">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 131 2213 1028 2262">
+     <span class='ocr_line' id='line_1_5' title="bbox 131 2213 1028 2262; baseline 0.019 -17"><span class='ocrx_word' id='word_1_8' title='bbox 131 2213 200 2246; x_wconf 62' lang='lat' dir='ltr'><strong>Cic.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 229 2215 316 2260; x_wconf 75' lang='lat' dir='ltr'><em>Opp.</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 347 2218 442 2250; x_wconf 76' lang='lat' dir='ltr'><em>Tom.</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 467 2221 546 2253; x_wconf 68' lang='grc' dir='ltr'><strong>ΙΙΙ.</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 981 2226 1028 2262; x_wconf 61' lang='grc' dir='ltr'>Ἠ</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
